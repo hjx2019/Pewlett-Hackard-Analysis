@@ -57,4 +57,4 @@ The analytical teams were assigned to determine the number of retiring employees
 
 ![image](https://user-images.githubusercontent.com/48306359/129449286-387916d5-3d10-459b-b153-65880d059815.png)
 
-That's not enough. we have only 1549 mentors, but we have 90k employees to train. On average, it's 58 per mentor. That's a great loading adding up to normal daily work. That's not enough.
+That's not enough. we have only 1549 mentors, but we have more than 90k new employees. On an average, it's 58 students per mentor. That's a great loading adding up to normal daily work for the mentors. That's not enough.
