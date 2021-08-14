@@ -44,8 +44,17 @@ The analytical teams were assigned to determine the number of retiring employees
 
 ## Summary: 
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+> Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+90398 positions are available after the 'silver tsunami', and that's the number needs to be fulfilled.
+
+![image](https://user-images.githubusercontent.com/48306359/129449224-1505fd87-9d2b-40fc-a533-2a754ddb4049.png)
+
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+![image](https://user-images.githubusercontent.com/48306359/129449286-387916d5-3d10-459b-b153-65880d059815.png)
+
+That's not enough. we have only 1549 mentors, but we have 90k employees to train. On average, it's 58 per mentor. That's a great loading adding up to normal daily work. That's not enough.
