@@ -1,9 +1,8 @@
 # Pewlett-Hackard-Analysis
-Challenge 7
 
 ## Overview of the analysis: 
 
-The analytical teams were assigned to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Based on the numbers, the manager will make a plan to get prepared for the “silver tsunami” as many current employees reach retirement age.
+(M7) The analytical teams were assigned to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Based on the numbers, the manager will make a plan to get prepared for the “silver tsunami” as many current employees reach retirement age.
 
 ## Results: 
 
